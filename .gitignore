@@ -5,3 +5,4 @@ catboost_info
 #ignore extension
 *.pickle
 *.txt
+*.log
